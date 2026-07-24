@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    border: 4px double rgb(108, 222, 32);
+    width:auto ;
+}
+td,th{
+    text-align: left;
+    padding: 8px;
+    border: 1px double rgb(108, 222, 32);
+}
